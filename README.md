@@ -1,1 +1,1 @@
-# classroom-workstation-reimage
+# Classroom Workstation Reimage
